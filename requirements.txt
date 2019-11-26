@@ -3,3 +3,5 @@ jupyter_contrib_nbextensions
 pandas
 matplotlib
 fileupload
+plotly
+qgrid

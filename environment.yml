@@ -4,3 +4,5 @@ dependencies:
   - appmode
   - pandas
   - matplotlib
+  - plotly
+  - qgrid
