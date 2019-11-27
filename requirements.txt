@@ -1,3 +1,7 @@
 ipywidgets
 jupyter_contrib_nbextensions
 fileupload
+pandas
+matplotlib
+plotly
+qgrid
