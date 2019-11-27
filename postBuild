@@ -6,4 +6,9 @@ jupyter nbextension enable python-markdown/main
 jupyter nbextension install --user --py fileupload
 jupyter nbextension enable  --user --py fileupload
 
+# Add qgrid
+jupyter nbextension enable --user --py qgrid
 
+# Add appmode
+jupyter nbextension     enable --user --py appmode
+jupyter serverextension enable --user --py appmode
