@@ -5,3 +5,5 @@ jupyter nbextension enable python-markdown/main
 # Add the fileupload module.
 jupyter nbextension install --user --py fileupload
 jupyter nbextension enable  --user --py fileupload
+
+
