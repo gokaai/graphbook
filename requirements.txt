@@ -1,7 +1,7 @@
 ipywidgets
 jupyter_contrib_nbextensions
 fileupload
-pandas
+pandas==0.24.0
 matplotlib
 plotly
 qgrid
